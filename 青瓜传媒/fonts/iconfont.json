@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1041091",
+      "name": "说话（未选中状态）",
+      "font_class": "shuohua1",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "7738694",
+      "name": "二维码",
+      "font_class": "qrcode",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "7815551",
+      "name": "搜索框",
+      "font_class": "sousuo",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "9950196",
+      "name": "浏览",
+      "font_class": "liulan",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    }
+  ]
+}
